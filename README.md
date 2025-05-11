@@ -1,57 +1,78 @@
-<h1 align="center">Hi 👋, I'm Hazem Said</h1>
-<h3 align="center">A Passionate Problem Solver and Software Engineer from Egypt</h3>
+# Hazem Said
 
-- 🌟 I specialize in building innovative, user-friendly solutions with a strong foundation in software engineering principles.
-- 💻 Proficient in **Flutter** and **Node.js** development, I enjoy creating seamless mobile and web applications that solve real-world problems.
-- 🔍 Constantly exploring new technologies and frameworks to expand my skill set and contribute to impactful projects.
-- 📫 How to reach me: **haazemsaidd@gmail.com**
+## Software Engineer | Problem Solver | Egypt
 
-<h3 align="left">Connect with Me:</h3>
-<p align="left">
-  <a href="https://twitter.com/hvzem_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hvzem_19" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/hazem-said-775b66263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hazem-said-775b66263" height="30" width="40" /></a>
-  <a href="https://fb.com/hazemsaeid19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hazemsaeid19" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/hazem__said" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hazem__said" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/haazemsaidd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="haazemsaidd" height="30" width="40" /></a>
+![Profile Views](https://komarev.com/ghpvc/?username=hazzemSaid&color=blueviolet&style=flat-square)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=FF6F61&center=true&vCenter=true&width=450&lines=Building+Innovative+Solutions;Flutter+%26+Node.js+Expert;Backend+Development+Specialist;Passionate+Problem+Solver)
+
+I am a dedicated software engineer specializing in **Flutter**, **Node.js**, and **backend development**. I craft seamless mobile, web, and server-side applications that solve real-world problems. My focus is on writing clean, maintainable code and embracing new technologies to deliver impactful solutions.
+
+---
+
+### 🛠️ Skills & Technologies
+
+- **Languages**: C++, Java, Dart, JavaScript
+- **Frameworks & Tools**: Flutter, Node.js, Express.js, Firebase, Git, Docker
+- **Development Focus**: Mobile & Web Applications, Backend Development, Software Architecture
+- **Backend Skills**: RESTful API Development, Database Integration (MongoDB, Firebase), Server-Side Logic, Express.js Middleware, Firebase Cloud Functions
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,dart,js,flutter,nodejs,express,firebase,git,docker,mongodb&perline=6" alt="Skills" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a> 
-</p>
+---
 
-<h3 align="left">GitHub Stats</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hazzemSaid&show_icons=true&theme=radical" alt="Hazem's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazzemSaid&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
+### 🌟 Featured Projects
 
-<h3 align="left">Contribution Activity</h3>
-<p align="left">
-  <img src="https://activity-graph.herokuapp.com/graph?username=hazzemSaid&theme=radical" alt="GitHub Activity Graph" />
-</p>
+- **[Sportify](https://github.com/hazzemSaid/Sportify)**: A music streaming platform built with Dart, offering a seamless user experience.
+- **[Note App](https://github.com/hazzemSaid/note_app)**: A C++ application for efficient note-taking and data management.
+- **[Bookly](https://github.com/hazzemSaid/bookly)**: A Flutter-based book management app with an intuitive interface.
+- **[ITI E-Commerce App](https://github.com/hazzemSaid/the_final_project_iti)**: A Flutter e-commerce app with a Node.js backend, featuring robust API integration.
 
-<h3 align="left">Contribution Streak</h3>
+---
+
+### 📊 GitHub Analytics
+
+#### Contribution Stats
 <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hazzemSaid&show_icons=true&theme=radical&count_private=true" alt="Hazem's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazzemSaid&theme=radical" alt="Contribution Streak" />
 </p>
 
-<h3 align="left">Featured Projects</h3>
-<p align="left">
-  <a href="https://github.com/hazzemSaid/Sportify">Sportify</a> - A music streaming platform built with Dart, offering a seamless user experience.<br>
-  <a href="https://github.com/hazzemSaid/note_app">Note App</a> - A C++ application for efficient note-taking and data management.<br>
-  <a href="https://github.com/hazzemSaid/bookly">Bookly</a> - A Flutter-based book management app for organizing reading lists.<br>
-  <a href="https://github.com/hazzemSaid/the_final_project_iti">The Final Project ITI</a> - An e-commerce app developed during my ITI Flutter course, featuring a user-friendly interface.
-</p>
-
-<h3 align="left">Top Languages Used</h3>
+#### Top Languages
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazzemSaid&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+#### Contribution Graph
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hazzemSaid&theme=radical" alt="Contribution Graph" />
+</p>
+
+---
+
+### 🏆 Achievements
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=hazzemSaid&theme=radical&no-frame=true&margin-w=15)
+
+---
+
+### 📫 Connect with Me
+
+- **Email**: [haazemsaidd@gmail.com](mailto:haazemsaidd@gmail.com)
+- **LinkedIn**: [hazem-said-775b66263](https://linkedin.com/in/hazem-said-775b66263)
+- **Twitter**: [hvzem_19](https://twitter.com/hvzem_19)
+- **LeetCode**: [haazemsaidd](https://www.leetcode.com/haazemsaidd)
+
+<p align="left">
+  <a href="https://twitter.com/hvzem_19" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/hazem-said-775b66263" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/hazem__said" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/haazemsaidd" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+</p>
+
+---
+
+### 🚀 About Me
+
+I am dedicated [committed to writing clean, maintainable code and leveraging my problem-solving skills to deliver high-quality software solutions. With expertise in both frontend and backend development, my goal is to contribute to projects that make a meaningful impact while continuously growing as a developer.](#)
