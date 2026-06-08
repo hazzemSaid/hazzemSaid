@@ -16,23 +16,6 @@
 
 ---
 
-## 📈 Engineering Highlights
-
-<div align="center">
-
-| Metric                      | Value                           |
-| --------------------------- | ------------------------------- |
-| 📱 Flutter Projects         | 10+                             |
-| 🏗️ Production Applications | 5+                              |
-| 🔗 REST APIs Integrated     | 100+                            |
-| ⚡ Real-Time Features        | Chat, Notifications, Presence   |
-| 🤖 AI Integrations          | Gemini, Groq                    |
-| 🧠 DSA Practice             | LeetCode & Codeforces           |
-| 🎓 Experience               | Mobile & Full-Stack Development |
-
-</div>
-
----
 
 ## 🎯 What I Build
 
